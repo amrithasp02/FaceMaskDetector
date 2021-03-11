@@ -1,0 +1,2 @@
+Click the link view to trained CNN model that has been saved:
+https://drive.google.com/file/d/19QzMRddZKFFC_y8HpI-0wSJpx1LEc33s/view?usp=sharing
