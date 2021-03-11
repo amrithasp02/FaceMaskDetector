@@ -18,3 +18,7 @@ How we increased accuracy -
 
 Training after 20 epochs - 
 loss: 1.5964e-04 - accuracy: 1.0000 - val_loss: 0.0440 - val_accuracy: 0.9899
+
+
+This is a project done for PES IO course
+Team members: Amritha Pallavoor, Abhinav Vasireddy, Ananya Shashishekar
